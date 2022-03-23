@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Material UI Form:
 
-![](Form Look.jpg)
+![](./form.JPG)
 
 ## Available Scripts
 
